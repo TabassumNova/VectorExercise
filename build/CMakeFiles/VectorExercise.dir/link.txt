@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++17 -Wall -pedantic -g CMakeFiles/VectorExercise.dir/VectorTest.cpp.o CMakeFiles/VectorExercise.dir/Vector.cpp.o -o VectorExercise 

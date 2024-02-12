@@ -1,0 +1,3 @@
+/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/build/CMakeFiles/VectorExercise.dir
+/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/build/CMakeFiles/edit_cache.dir
+/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/build/CMakeFiles/rebuild_cache.dir

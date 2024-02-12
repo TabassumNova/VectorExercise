@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/build",
+  "command": "/usr/bin/g++    -std=c++17 -Wall -pedantic -g -o CMakeFiles/VectorExercise.dir/VectorTest.cpp.o -c /home/nova/Desktop/Nova/C++/Advanced/VectorExercise/VectorTest.cpp",
+  "file": "/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/VectorTest.cpp"
+},
+{
+  "directory": "/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/build",
+  "command": "/usr/bin/g++    -std=c++17 -Wall -pedantic -g -o CMakeFiles/VectorExercise.dir/Vector.cpp.o -c /home/nova/Desktop/Nova/C++/Advanced/VectorExercise/Vector.cpp",
+  "file": "/home/nova/Desktop/Nova/C++/Advanced/VectorExercise/Vector.cpp"
+}
+]
