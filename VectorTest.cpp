@@ -48,6 +48,9 @@ void test_get_set(size_t rows = 2, double initValue = 1.0) {
 	}
 	// compile time check: taking address of const reference
 	assert(*&v1(0) == v1(0));
+	// std::cout << *&v1(0) << std::endl;
+	// std::cout << &v1(0) << std::endl;
+	// std::cout << v1(0) << std::endl;
 
     auto begin = &v1(0);
     auto end = &v1(rows);

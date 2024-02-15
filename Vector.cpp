@@ -75,6 +75,8 @@ Vector& Vector::operator=(const Vector& other) {
     {
         data[i] = other.data[i];
     }
+    // std::cout << "*this" <<*this << std::endl;
+    // std::cout << "this" << this << std::endl;
     return *this;
 }
 
